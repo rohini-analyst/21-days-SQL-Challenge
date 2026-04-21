@@ -2,19 +2,18 @@
 
 **Hosted by Indian Data Club**
 
-This **21-Day SQL Challenge** is designed to help beginners build strong SQL fundamentals through hands-on learning, real-world problem solving, and consistent daily practice.
+This repository contains my solutions to a 21-Day SQL Challenge focused on real-world Hospital Data Analysis.
 
-The challenge follows a **self-paced learning path**, where each day focuses on a specific concept along with a practical, real-world-style query.
+The goal was to strengthen SQL fundamentals and apply them to solve practical business problems such as patient analysis, service performance, and operational insights.
 
 ---
 
 ## 🎯 Goal
 
-Master SQL from **basics to advanced concepts** used in:
-
-* Data Analysis
-* Data Engineering
-* Data Science
+- Build strong SQL fundamentals
+- Solve real-world analytical problems
+- Improve query optimization and logic building
+- Prepare for Data Analyst roles
 
 ---
 
@@ -25,6 +24,13 @@ Master SQL from **basics to advanced concepts** used in:
 | 📆 Duration | 21 Days                                                |
 | 🧠 Level    | Beginner → Advanced                                    |
 | 🏁 Outcome  | Ability to write efficient SQL for real-world problems |
+
+---
+
+- SQL (MySQL)
+- Data Analysis
+- Joins, Subqueries, Window Functions
+- Aggregations & CTEs
 
 ---
 
@@ -63,6 +69,17 @@ Master SQL from **basics to advanced concepts** used in:
 | Day 19 | Window Functions – ROW_NUMBER, RANK, DENSE_RANK |
 | Day 20 | Aggregate Window Functions                      |
 | Day 21 | Common Table Expressions (CTEs)                 |
+
+---
+
+## 📊 Key Insights (THIS MAKES YOU STAND OUT)
+
+Even 4–5 points are enough:
+
+- Services with high refusals often had lower patient satisfaction
+- Surgery department showed higher dissatisfaction in specific weeks
+- Staffing levels directly impacted service performance
+- Peak admission weeks correlated with lower staff morale
 
 ---
 

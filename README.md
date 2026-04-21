@@ -1,6 +1,6 @@
 # 🗄️ 21 Days SQL Challenge
 
-**Hosted by Indian Data Club**
+**Hosted by [Indian Data Club](https://www.indiandataclub.com/)**
 
 This repository contains my solutions to a 21-Day SQL Challenge focused on real-world Hospital Data Analysis.
 

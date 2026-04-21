@@ -70,8 +70,8 @@ Master SQL from **basics to advanced concepts** used in:
 
 Feel free to reach out:
 
-* 📧 [Email](rohiniw0605@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/rohinii-wghh-317a472b2/) 
+* 📧 [Email](mailto:rohiniw0605@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/rohinii-wagh) 
 
 ---
 

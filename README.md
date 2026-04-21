@@ -72,7 +72,7 @@ The goal was to strengthen SQL fundamentals and apply them to solve practical bu
 
 ---
 
-## 📊 Key Insights (THIS MAKES YOU STAND OUT)
+## 📊 Key Insights
 
 Even 4–5 points are enough:
 

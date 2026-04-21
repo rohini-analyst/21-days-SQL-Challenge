@@ -2,7 +2,10 @@
 
 **Hosted by [Indian Data Club](https://www.indiandataclub.com/)**
 
-This repository contains my solutions to a 21-Day SQL Challenge focused on real-world Hospital Data Analysis.
+This repository contains my solutions to a 21-Day SQL Challenge focused on real-world Hospital Data Analysis. 
+Along with two mini projects
+- Great Pizza Analytics
+- Capstone Project
 
 The goal was to strengthen SQL fundamentals and apply them to solve practical business problems such as patient analysis, service performance, and operational insights.
 

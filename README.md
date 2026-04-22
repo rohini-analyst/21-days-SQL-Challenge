@@ -106,7 +106,7 @@ If you find this challenge helpful, don’t forget to **⭐ star the repository*
 ---
 # output Screenshots
 [Day 1 Unique Services](ALL_OP_Img/Day1.png)
-[View SQL Query](21_days_Challenge_Scripts/Day 1  Unique Services.sql)
+[View SQL Query](21_days_Challenge_Scripts/Day1_Unique_Services.sql)
 [Day 2 Low Satisfaction Surgery Patients](ALL_OP_Img/Day2.png)
 [Day 3 Top Refusal Weeks](ALL_OP_Img/Day3.png)
 [Day 4 Mid Range Satisfaction Records](ALL_OP_Img/Day4.png)

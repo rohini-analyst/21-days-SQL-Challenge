@@ -123,7 +123,7 @@ If you find this challenge helpful, don’t forget to **⭐ star the repository*
 [View SQL Query for Day3](21_days_Challenge_Scripts/Day3_Top_Refusal_Weeks.sql)  
 <img src="ALL_OP_Img/Day3.png" width="1200"/>
 
-- [Day 4 Mid Range Satisfaction Records]   
+- [Day 4 Mid Range Satisfaction Records]  
 [View SQL Query for Day4](21_days_Challenge_Scripts/Day4_Mid_Range_Satisfaction_Records.sql)  
 <img src="ALL_OP_Img/Day4.png" width="1200"/>
 

@@ -111,63 +111,94 @@ If you find this challenge helpful, don’t forget to **⭐ star the repository*
 <img src="ALL_OP_Img/Day1.png" width="800"/>
 [View SQL Query](21_days_Challenge_Scripts/Day1_Unique_Services.sql)
 
-[Day 2 Low Satisfaction Surgery Patients](ALL_OP_Img/Day2.png)
-[View SQL Query](21_days_Challenge_Scripts/Day2_Low_Satisfaction_Surgery_Patients.sql)
+- [Day 1 Unique Services]  
+[View SQL Query for Day1](21_days_Challenge_Scripts/Day1_Unique_Services.sql)  
+<img src="ALL_OP_Img/Day1.png" width="800"/>
 
-[Day 3 Top Refusal Weeks](ALL_OP_Img/Day3.png)
-[View SQL Query](21_days_Challenge_Scripts/Day3_Top_Refusal_Weeks.sql)
+- [Day 2 Low Satisfaction Surgery Patients]  
+[View SQL Query for Day2](21_days_Challenge_Scripts/Day2_Low_Satisfaction_Surgery_Patients.sql)  
+<img src="ALL_OP_Img/Day2.png" width="800"/>
 
-[Day 4 Mid Range Satisfaction Records](ALL_OP_Img/Day4.png)
-[View SQL Query](21_days_Challenge_Scripts/Day4_Mid_Range_Satisfaction_Records.sql)
+- [Day 3 Top Refusal Weeks]  
+[View SQL Query for Day3](21_days_Challenge_Scripts/Day3_Top_Refusal_Weeks.sql)  
+<img src="ALL_OP_Img/Day3.png" width="800"/>
 
-[Day 5 Overall Hospital Metrics](ALL_OP_Img/Day5.png)
-[View SQL Query](21_days_Challenge_Scripts/Day5_Overall_Hospital_Metrics.sql)
+- [Day 4 Mid Range Satisfaction Records]  
+[View SQL Query for Day4](21_days_Challenge_Scripts/Day4_Mid_Range_Satisfaction_Records.sql)  
+<img src="ALL_OP_Img/Day4.png" width="800"/>
 
-[Day 6 Service Admission Rate](ALL_OP_Img/Day6.png)
-[View SQL Query](21_days_Challenge_Scripts/Day6_Service_Admission_Rate.sql)
+- [Day 5 Overall Hospital Metrics]  
+[View SQL Query for Day5](21_days_Challenge_Scripts/Day5_Overall_Hospital_Metrics.sql)  
+<img src="ALL_OP_Img/Day5.png" width="800"/>
 
-[Day 7 Low Performance Services](ALL_OP_Img/Day7.png)
-[View SQL Query](21_days_Challenge_Scripts/Day7_Low_Performance_Services.sql)
+- [Day 6 Service Admission Rate]  
+[View SQL Query for Day6](21_days_Challenge_Scripts/Day6_Service_Admission_Rate.sql)  
+<img src="ALL_OP_Img/Day6.png" width="800"/>
 
-[Day 8 Patient Summary Analysis](ALL_OP_Img/Day8.png)
-[View SQL Query](21_days_Challenge_Scripts/Day8_Patient_Summary_Analysis.sql)
+- [Day 7 Low Performance Services]  
+[View SQL Query for Day7](21_days_Challenge_Scripts/Day7_Low_Performance_Services.sql)  
+<img src="ALL_OP_Img/Day7.png" width="800"/>
 
-[Day 9 Average Length of Stay](ALL_OP_Img/Day9.png)
-[View SQL Query](21_days_Challenge_Scripts/Day9_Average_Length_of_Stay.sql)
+- [Day 8 Patient Summary Analysis]  
+[View SQL Query for Day8](21_days_Challenge_Scripts/Day8_Patient_Summary_Analysis.sql)  
+<img src="ALL_OP_Img/Day8.png" width="800"/>
 
-[Day 10 Service Performance](ALL_OP_Img/Day10.png)
-[View SQL Query](21_days_Challenge_Scripts/Day10_Service_Performance.sql)
+- [Day 9 Average Length of Stay]  
+[View SQL Query for Day9](21_days_Challenge_Scripts/Day9_Average_Length_of_Stay.sql)  
+<img src="ALL_OP_Img/Day9.png" width="800"/>
 
-[Day 11 Service Event Frequency](ALL_OP_Img/Day11.png)
-[View SQL Query](21_days_Challenge_Scripts/Day11_Service_Event_Frequency.sql)
+- [Day 10 Service Performance]  
+[View SQL Query for Day10](21_days_Challenge_Scripts/Day10_Service_Performance.sql)  
+<img src="ALL_OP_Img/Day10.png" width="800"/>
 
-[Day 12 Event Impact Analysis](ALL_OP_Img/Day12.png)
-[View SQL Query](21_days_Challenge_Scripts/Day12_Event_Impact_Analysis.sql)
+- [Day 11 Service Event Frequency]  
+[View SQL Query for Day11](21_days_Challenge_Scripts/Day11_Service_Event_Frequency.sql)  
+<img src="ALL_OP_Img/Day11.png" width="800"/>
 
-[Day 13 Patient Staff Summary](ALL_OP_Img/Day13.png)
-[View SQL Query](21_days_Challenge_Scripts/Day13_Patient_Staff_Summary.sql)
+- [Day 12 Event Impact Analysis]  
+[View SQL Query for Day12](21_days_Challenge_Scripts/Day12_Event_Impact_Analysis.sql)  
+<img src="ALL_OP_Img/Day12.png" width="800"/>
 
-[Day 14 Staff Utilisation Report](ALL_OP_Img/Day14.png)
-[View SQL Query](21_days_Challenge_Scripts/Day14_Staff_Utilisation_Report.sql)
+- [Day 13 Patient Staff Summary]  
+[View SQL Query for Day13](21_days_Challenge_Scripts/Day13_Patient_Staff_Summary.sql)  
+<img src="ALL_OP_Img/Day13.png" width="800"/>
 
-[Day 15 Weekly Service Analysis](ALL_OP_Img/Day15.png)
-[View SQL Query](21_days_Challenge_Scripts/Day15_Weekly_Service_Analysis.sql)
+- [Day 14 Staff Utilisation Report]  
+[View SQL Query for Day14](21_days_Challenge_Scripts/Day14_Staff_Utilisation_Report.sql)  
+<img src="ALL_OP_Img/Day14.png" width="800"/>
 
-[Day 16 Low Satisfaction Service Patients](ALL_OP_Img/Day16.png)
-[View SQL Query](21_days_Challenge_Scripts/Day16_Low_Satisfaction_Service_Patients.sql)
+- [Day 15 Weekly Service Analysis]  
+[View SQL Query for Day15](21_days_Challenge_Scripts/Day15_Weekly_Service_Analysis.sql)  
+<img src="ALL_OP_Img/Day15.png" width="800"/>
 
-[Day 17 Service Admission Comparison](ALL_OP_Img/Day17.png)
-[View SQL Query](21_days_Challenge_Scripts/Day17_Service_Admission_Comparison.sql)
+- [Day 16 Low Satisfaction Service Patients]  
+[View SQL Query for Day16](21_days_Challenge_Scripts/Day16_Low_Satisfaction_Service_Patients.sql)  
+<img src="ALL_OP_Img/Day16.png" width="800"/>
 
-[Day 18 Patient Staff Combined List](ALL_OP_Img/Day18.png)
-[View SQL Query](21_days_Challenge_Scripts/Day18_Patient_Staff_Combined_List.sql)
+- [Day 17 Service Admission Comparison]  
+[View SQL Query for Day17](21_days_Challenge_Scripts/Day17_Service_Admission_Comparison.sql)  
+<img src="ALL_OP_Img/Day17.png" width="800"/>
 
-[Day 19 Top Ranked Weeks by Service](ALL_OP_Img/Day19.png)
-[View SQL Query](21_days_Challenge_Scripts/Day19_Top_Ranked_Weeks_by_Service.sql)
+- [Day 18 Patient Staff Combined List]  
+[View SQL Query for Day18](21_days_Challenge_Scripts/Day18_Patient_Staff_Combined_List.sql)  
+<img src="ALL_OP_Img/Day18.png" width="800"/>
 
-[Day 20 Service Trend Analysis](ALL_OP_Img/Day20.png)
-[View SQL Query](21_days_Challenge_Scripts/Day20_Service_Trend_Analysis.sql)
+- [Day 19 Top Ranked Weeks by Service]  
+[View SQL Query for Day19](21_days_Challenge_Scripts/Day19_Top_Ranked_Weeks_by_Service.sql)  
+<img src="ALL_OP_Img/Day19.png" width="800"/>
 
-[Day 21 Hospital Performance Dashboard](ALL_OP_Img/Day21.png)
-[View SQL Query](21_days_Challenge_Scripts/Day21_Hospital_Performance_Dashboard.sql) 
+- [Day 20 Service Trend Analysis]  
+[View SQL Query for Day20](21_days_Challenge_Scripts/Day20_Service_Trend_Analysis.sql)  
+<img src="ALL_OP_Img/Day20.png" width="800"/>
 
+- [Day 21 Hospital Performance Dashboard]  
+[View SQL Query for Day21](21_days_Challenge_Scripts/Day21_Hospital_Performance_Dashboard.sql)  
+<img src="ALL_OP_Img/Day21.png" width="800"/>
+
+- [Pizza Sales Analysis]  
+[View SQL Query](21_days_Challenge_Scripts/Pizza_Sales_Analysis.sql)  
+<img src="ALL_OP_Img/Pizza.png" width="800"/>
+
+- [Capstone Project]  
+[View SQL Query](21_days_Challenge_Scripts/Capstone_Project.sql)  
+<img src="ALL_OP_Img/Capstone.png" width="800"/>

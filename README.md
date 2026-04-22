@@ -166,5 +166,5 @@ If you find this challenge helpful, don’t forget to **⭐ star the repository*
 [View SQL Query](21_days_Challenge_Scripts/Day20_Service_Trend_Analysis.sql)
 
 [Day 21 Hospital Performance Dashboard](ALL_OP_Img/Day21.png)
-[View SQL Query](21_days_Challenge_Scripts/Day21_Hospital_Performance_Dashboard.sql)
+[View SQL Query](21_days_Challenge_Scripts/Day21_Hospital_Performance_Dashboard.sql) 
 

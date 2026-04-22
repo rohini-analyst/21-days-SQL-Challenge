@@ -104,7 +104,7 @@ If you find this challenge helpful, don’t forget to **⭐ star the repository*
 
 
 - ---
-[Day 1 Unique Services](Day1.png)
+[Day 1 Unique Services](ALL_OP_Img/Day1.png)
 [Day 2 Low Satisfaction Surgery Patients](queries/Day%2002%20-%20Low%20Satisfaction%20Surgery%20Patients.sql)
 [Day 3 Top Refusal Weeks](queries/Day%2003%20-%20Top%20Refusal%20Weeks.sql)
 [Day 4 Mid Range Satisfaction Records](queries/Day%2004%20-%20Mid%20Range%20Satisfaction%20Records.sql)

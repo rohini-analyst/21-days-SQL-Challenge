@@ -105,7 +105,7 @@ If you find this challenge helpful, don’t forget to **⭐ star the repository*
 
 ---
 # output Screenshots
-[Day 1 Unique Services](ALL_OP_Img/Day1.png)
+- [Day 1 Unique Services]
 <img src="ALL_OP_Img/Day1.png" width="800"/>
 [View SQL Query](21_days_Challenge_Scripts/Day1_Unique_Services.sql)
 
